@@ -46,4 +46,15 @@ body {
       .header-social-media ul li a:hover {
         color: #fff; }
 
+.gallery {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 1170px;
+  padding: 1.5rem 0;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0; }
+
 /*# sourceMappingURL=styles.css.map */
